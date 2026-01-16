@@ -10,4 +10,4 @@ Project using heaps to most efficenitly encode a text input. See https://en.wiki
 Project using basic graph theory and Dijkstra's algorithm to find the most efficient path between territories in the board game "Risk."
 
 # Visual Sorts
-Project that uses Java graphics to visually display the process of non-comparison sorts. The two sorts displayed in the project are MSD and LSD sort (i.e. radix sort)
+Project that uses Java graphics to visually display the process of non-comparison sorts. The two sorts displayed in the project are MSD and LSD sort (i.e. radix sort).
